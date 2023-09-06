@@ -1,0 +1,7 @@
+{
+  "name": "yarn-dependabot-example2",
+  "packageManager": "yarn@3.6.3",
+  "dependencies": {
+    "react-native-code-push": "v8.0.0"
+  }
+}
